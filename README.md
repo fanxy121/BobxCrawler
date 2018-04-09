@@ -1,2 +1,2 @@
 # BobxCrawler
-try getting pictures from the gallery web
+trying to get pictures from the gallery website
